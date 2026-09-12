@@ -36,14 +36,11 @@ export PATH="$JAVA_HOME/bin:$PATH"
 export MAVEN_HOME="/usr/local/maven/latest"
 export PATH="$MAVEN_HOME/bin:$PATH"
 
-# uv
+# Personal scripts
 export PATH="$HOME/.local/bin:$PATH"
 
 # Go
 export PATH="$PATH:/usr/local/go/bin"
-
-# Personal scripts
-export PATH="$PATH:$HOME/bin"
 
 # Neovim
 export PATH="$PATH:/usr/local/nvim/bin"
